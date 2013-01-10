@@ -1,0 +1,129 @@
+[submodule "laplacianFlux"]
+	path = laplacianFlux
+	url = git@github.com:asimurzin/laplacianFlux.git
+[submodule "potentialFlux"]
+	path = potentialFlux
+	url = git@github.com:asimurzin/potentialFlux.git
+[submodule "scalarTransportFlux"]
+	path = scalarTransportFlux
+	url = git@github.com:asimurzin/scalarTransportFlux.git
+[submodule "rhoCentralFlux"]
+	path = rhoCentralFlux
+	url = git@github.com:asimurzin/rhoCentralFlux.git
+[submodule "rhoPimpleFlux"]
+	path = rhoPimpleFlux
+	url = git@github.com:asimurzin/rhoPimpleFlux.git
+[submodule "rhoPisoFlux"]
+	path = rhoPisoFlux
+	url = git@github.com:asimurzin/rhoPisoFlux.git
+[submodule "rhoPorousMRFPimpleFlux"]
+	path = rhoPorousMRFPimpleFlux
+	url = git@github.com:asimurzin/rhoPorousMRFPimpleFlux.git
+[submodule "sonicFlux"]
+	path = sonicFlux
+	url = git@github.com:asimurzin/sonicFlux.git
+[submodule "sonicLiquidFlux"]
+	path = sonicLiquidFlux
+	url = git@github.com:asimurzin/sonicLiquidFlux.git
+[submodule "rhoPorousMRFLTSPimpleFlux"]
+	path = rhoPorousMRFLTSPimpleFlux
+	url = git@github.com:asimurzin/rhoPorousMRFLTSPimpleFlux.git
+[submodule "rhoPorousMRFSimpleFlux"]
+	path = rhoPorousMRFSimpleFlux
+	url = git@github.com:asimurzin/rhoPorousMRFSimpleFlux.git
+[submodule "rhoPorousSimpleFlux"]
+	path = rhoPorousSimpleFlux
+	url = git@github.com:asimurzin/rhoPorousSimpleFlux.git
+[submodule "rhoSimpleFlux"]
+	path = rhoSimpleFlux
+	url = git@github.com:asimurzin/rhoSimpleFlux.git
+[submodule "rhoSonicFlux"]
+	path = rhoSonicFlux
+	url = git@github.com:asimurzin/rhoSonicFlux.git
+[submodule "rhoSimplecFlux"]
+	path = rhoSimplecFlux
+	url = git@github.com:asimurzin/rhoSimplecFlux.git
+[submodule "buoyantBoussinesqSimpleFlux"]
+	path = buoyantBoussinesqSimpleFlux
+	url = git@github.com:asimurzin/buoyantBoussinesqSimpleFlux.git
+[submodule "buoyantBoussinesqPisoFlux"]
+	path = buoyantBoussinesqPisoFlux
+	url = git@github.com:asimurzin/buoyantBoussinesqPisoFlux.git
+[submodule "buoyantPisoFlux"]
+	path = buoyantPisoFlux
+	url = git@github.com:asimurzin/buoyantPisoFlux.git
+[submodule "buoyantPimpleFlux"]
+	path = buoyantPimpleFlux
+	url = git@github.com:asimurzin/buoyantPimpleFlux.git
+[submodule "buoyantSimpleFlux"]
+	path = buoyantSimpleFlux
+	url = git@github.com:asimurzin/buoyantSimpleFlux.git
+[submodule "buoyantSimpleRadiationFlux"]
+	path = buoyantSimpleRadiationFlux
+	url = git@github.com:asimurzin/buoyantSimpleRadiationFlux.git
+[submodule "chtMultiRegionFlux"]
+	path = chtMultiRegionFlux
+	url = git@github.com:asimurzin/chtMultiRegionFlux.git
+[submodule "buoyantBoussinesqPimpleFlux"]
+	path = buoyantBoussinesqPimpleFlux
+	url = git@github.com:asimurzin/buoyantBoussinesqPimpleFlux.git
+[submodule "chtMultiRegionSimpleFlux"]
+	path = chtMultiRegionSimpleFlux
+	url = git@github.com:asimurzin/chtMultiRegionSimpleFlux.git
+[submodule "boundaryFlux"]
+	path = boundaryFlux
+	url = git@github.com:asimurzin/boundaryFlux.git
+[submodule "channelFlux"]
+	path = channelFlux
+	url = git@github.com:asimurzin/channelFlux.git
+[submodule "icoFlux"]
+	path = icoFlux
+	url = git@github.com:asimurzin/icoFlux.git
+[submodule "nonNewtonianIcoFlux"]
+	path = nonNewtonianIcoFlux
+	url = git@github.com:asimurzin/nonNewtonianIcoFlux.git
+[submodule "pimpleDyMFlux"]
+	path = pimpleDyMFlux
+	url = git@github.com:asimurzin/pimpleDyMFlux.git
+[submodule "pimpleFlux"]
+	path = pimpleFlux
+	url = git@github.com:asimurzin/pimpleFlux.git
+[submodule "pisoFlux"]
+	path = pisoFlux
+	url = git@github.com:asimurzin/pisoFlux.git
+[submodule "porousSimpleFlux"]
+	path = porousSimpleFlux
+	url = git@github.com:asimurzin/porousSimpleFlux.git
+[submodule "shallowWaterFlux"]
+	path = shallowWaterFlux
+	url = git@github.com:asimurzin/shallowWaterFlux.git
+[submodule "simpleFlux"]
+	path = simpleFlux
+	url = git@github.com:asimurzin/simpleFlux.git
+[submodule "adjointShapeOptimizationFlux"]
+	path = adjointShapeOptimizationFlux
+	url = git@github.com:asimurzin/adjointShapeOptimizationFlux.git
+[submodule "MRFSimpleFlux"]
+	path = MRFSimpleFlux
+	url = git@github.com:asimurzin/MRFSimpleFlux.git
+[submodule "SRFPimpleFlux"]
+	path = SRFPimpleFlux
+	url = git@github.com:asimurzin/SRFPimpleFlux.git
+[submodule "SRFSimpleFlux"]
+	path = SRFSimpleFlux
+	url = git@github.com:asimurzin/SRFSimpleFlux.git
+[submodule "interFlux"]
+	path = interFlux
+	url = git@github.com:asimurzin/interFlux.git
+[submodule "interDyMFlux"]
+	path = interDyMFlux
+	url = git@github.com:asimurzin/interDyMFlux.git
+[submodule "compressibleInterFlux"]
+	path = compressibleInterFlux
+	url = git@github.com:asimurzin/compressibleInterFlux.git
+[submodule "twoLiquidMixingFlux"]
+	path = twoLiquidMixingFlux
+	url = git@github.com:asimurzin/twoLiquidMixingFlux.git
+[submodule "dnsFlux"]
+	path = dnsFlux
+	url = git@github.com:asimurzin/dnsFlux.git
